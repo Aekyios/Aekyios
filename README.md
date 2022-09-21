@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aekyios
 - 👀 I’m interested in discord bot, website, home hosting solution
-- 🌱 I’m currently python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord: Aekyios#5132
 - 🏳️ I'm french
