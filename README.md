@@ -6,7 +6,7 @@ I am interested in learning Python, HTML, PHP, Javascripts and wish to develop m
 
 - 👋 Hi, I’m @Aekyios
 - 👀 I’m interested in API, website, home hosting solution
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Javascript 
 - 📫 How to reach me discord: Aekyios#1526
-- 🏳️ I'm french
+- 🇫🇷
 - ![](https://visitor-badge.glitch.me/badge?page_id=Aekyios.Aekyios)
