@@ -8,4 +8,3 @@ I am interested in learning Python, Javascripts, Homelab(selfhosting solutions) 
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me discord: Aekyios
 - 🇫🇷
-- ![](https://visitor-badge.glitch.me/badge?page_id=Aekyios.Aekyios)
